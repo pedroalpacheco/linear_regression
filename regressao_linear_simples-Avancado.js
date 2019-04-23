@@ -16,5 +16,6 @@ const dolarstring = Number(dolar)
 
 resultado = regression.predict([dolarstring])
 
-console.log(resultado);
+
+console.log(Math.round(resultado));
 
