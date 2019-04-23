@@ -5,6 +5,7 @@ const mlr = require('ml-regression-multivariate-linear');
 /*const x = [[12],[2],[23],[4]]
 const y = [[47.64],[7.84],[91.31],[15.88]]*/
 
+//Dados de treinamento
 const x = [[2],[4],[9],[16]]
 const y = [[7.84],[15.88],[35.28],[62.72]]
 
